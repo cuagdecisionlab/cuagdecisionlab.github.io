@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Clemson Agribusiness Decision Research Lab</title>
+    <link>https://cuagdecisionlab.github.io/projects/</link>
+      <atom:link href="https://cuagdecisionlab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cuagdecisionlab.github.io/media/icon_hu1295621753823738898.png</url>
+      <title>Projects</title>
+      <link>https://cuagdecisionlab.github.io/projects/</link>
+    </image>
+    
+  </channel>
+</rss>

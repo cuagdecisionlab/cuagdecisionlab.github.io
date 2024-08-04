@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach | Clemson Agribusiness Decision Research Lab</title>
+    <link>https://cuagdecisionlab.github.io/outreach/</link>
+      <atom:link href="https://cuagdecisionlab.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Outreach</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cuagdecisionlab.github.io/media/icon_hu1295621753823738898.png</url>
+      <title>Outreach</title>
+      <link>https://cuagdecisionlab.github.io/outreach/</link>
+    </image>
+    
+    <item>
+      <title>Vegetable Grafting Economic Decision Support System</title>
+      <link>https://cuagdecisionlab.github.io/outreach/vegetable_grafting_tool/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://cuagdecisionlab.github.io/outreach/vegetable_grafting_tool/</guid>
+      <description>&lt;p&gt;This decision support tool allows the user to evaluate the economic returns of adopting grafted vegetable production. It integrates partial budget comparison analysis, sensitivity analysis, and break-even analysis to help the user understand the economic benefits of adopting vegetable grafting technology and thereby make informed management decisions for improvement. The tool is intended for use as an educational tool by extension agents, crop consultants, growers, nurseries, and other individuals who are interested in understanding the benefits of grafting technology. The user can apply various customized parameters to represent specific production circumstances and compare economic costs and returns of grafted and non-grafted vegetable production using this interactive tool.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Please use the tool at &lt;a href=&#34;http://graftingtool.ifas.ufl.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://graftingtool.ifas.ufl.edu/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

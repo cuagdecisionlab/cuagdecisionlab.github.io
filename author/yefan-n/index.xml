@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yefan N | Clemson Agribusiness Decision Research Lab</title>
+    <link>http://localhost:4321/author/yefan-n/</link>
+      <atom:link href="http://localhost:4321/author/yefan-n/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yefan N</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu1295621753823738898.png</url>
+      <title>Yefan N</title>
+      <link>http://localhost:4321/author/yefan-n/</link>
+    </image>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:4321/publications/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

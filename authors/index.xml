@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Clemson Agribusiness Decision Research Lab</title>
+    <link>https://cuagdecisionlab.github.io/authors/</link>
+      <atom:link href="https://cuagdecisionlab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cuagdecisionlab.github.io/media/icon_hu1295621753823738898.png</url>
+      <title>Authors</title>
+      <link>https://cuagdecisionlab.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
